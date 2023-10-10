@@ -1,0 +1,43 @@
+body {
+    background-color: #82A8EA;
+    font-family: Georgia, 'Times New Roman', Times, seri;
+  }
+  
+  .nav-wrapper {
+    background-color: #4270C2;
+  }
+  .nav-wrapper a {
+    font-size: 25px;
+  }
+  
+  
+  
+  fieldset {
+    border: solid 2px;
+    border-radius: 4px;
+    border-color: #E9F1FF;
+    margin: 15px;
+  }
+  
+  h2 {
+    font-weight: normal;
+    font-size: 28px;
+    color: #E9F1FF;
+    margin-bottom: 5px;
+  }
+  
+  legend {
+    font-size: 34px;
+    color: #E9F1FF;
+  }
+  
+  p {
+    font-size: 22px;
+    color: #E9F1FF;
+    margin-top: 5px;
+  }
+  
+  .links li {
+    display: inline-block;
+    margin: 20px;
+  }

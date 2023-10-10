@@ -1,0 +1,38 @@
+body {
+    background-color: #82A8EA;
+    font-family: Georgia, 'Times New Roman', Times, seri;
+  }
+  
+  .nav-wrapper {
+    background-color: #4270C2;
+  }
+  .nav-wrapper a {
+    font-size: 25px;
+  }
+  
+  fieldset {
+    border: solid 2px;
+    border-color: #E9F1FF;
+    border-radius: 4px;
+    margin: 15px;
+  }
+  
+  #materialize {
+    font-size: 34px;
+    color: #E9F1FF;
+  }
+
+  h2 {
+    color: #E9F1FF;
+    font-size: 26px;
+  }
+
+  p {
+    color: #E9F1FF;
+    font-size: 18px;
+  }
+
+  .links li {
+    display: inline-block;
+    margin: 20px;
+  }

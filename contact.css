@@ -1,0 +1,59 @@
+body {
+  background-color: #82A8EA;
+  font-family: Georgia, 'Times New Roman', Times, seri;
+}
+
+.nav-wrapper {
+  background-color: #4270C2;
+}
+
+.nav-wrapper a {
+  font-size: 25px;
+}
+
+fieldset {
+  border: solid 2px;
+  border-color: #E9F1FF;
+  border-radius: 4px;
+  margin: 15px;
+}
+
+#contact {
+  font-size: 34px;
+  color: #E9F1FF;
+}
+
+p {
+  color: #d2e3ff;
+  font-size: 18px;
+}
+.email {
+  color: #306dd0;
+}
+
+.input-field label {
+  color: #E9F1FF;
+  font-size: 18px;
+}
+#first_name, #last_name, #email, #phone, #textarea1 {
+  border-bottom: 1px solid #E9F1FF;
+}
+
+button {
+  background-color: #4270C2;
+  font-size: 25px;
+  font-family: Georgia, 'Times New Roman', Times, seri;
+  color: #E9F1FF;
+  border: solid 2px;
+  border-color: #E9F1FF;
+  border-radius: 8px;
+  text-align: center;
+  text-decoration: none;
+  padding: 5px 15px;
+  margin-right: 10px;
+}
+
+.links li {
+  margin: 20px;
+  display: inline-block;
+}
