@@ -32,6 +32,10 @@ body {
     font-size: 18px;
   }
 
+.mat {
+  height: 300px;
+}
+
   .links li {
     display: inline-block;
     margin: 20px;
